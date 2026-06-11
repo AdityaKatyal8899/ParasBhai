@@ -98,9 +98,9 @@
 //Input Methods in JS
 
 // // Method 1: Console Inputs
-// const a = Number(prompt('Laa re chikne de: '))
-// const b = prompt('Laa ek baar aur de: ')
-// console.log(a+b)
+const a = Number(prompt('Laa re chikne de: '))
+const b = Number(prompt('Laa ek baar aur de: '))
+console.log(a+b)
 
 //Method 2: HTML Form inputs
 
