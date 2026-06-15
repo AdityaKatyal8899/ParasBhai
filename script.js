@@ -123,4 +123,46 @@
 // console.log("Hello " + name + " NamasteJi")
 // console.log(`Hello ${name} Namasteji`)
 
-    
+
+
+// const num = Number(prompt("Enter a value:"))
+
+// if(num % 2 === 0){
+//     console.log('true')
+// }
+
+// else{
+//     console.log('false')
+// }
+
+
+// const val = Number(prompt("Enter a value:"))
+
+// for(let i = 1; i <= 10; i++){
+//     console.log(val*i)
+// }
+
+
+// const age = Number(prompt("Enter a value:"))
+// if(age <= 18){
+//     console.log('False')
+// }
+
+// else{
+//     console.log('True')
+// }
+
+
+// const val = Number(prompt("Enter a value:"))
+
+// if(val >= 5){
+//  for(let i = 1; i <= 5; i++){
+//     console.log(val*i)
+//     }   
+// }
+
+// else{
+//     for(let i = 1; i <= 10; i++){
+//     console.log(val*i)
+//     }
+// }
