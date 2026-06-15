@@ -98,12 +98,28 @@
 //Input Methods in JS
 
 // // Method 1: Console Inputs
-const a = Number(prompt('Laa re chikne de: '))
-const b = Number(prompt('Laa ek baar aur de: '))
-console.log(a+b)
+// const a = Number(prompt('Laa re chikne de: '))
+// const b = Number(prompt('Laa ek baar aur de: '))
+// console.log(a+b)
 
 //Method 2: HTML Form inputs
 
 // const htmlVal = document.getElementById('test').value
 // console.log(htmlVal)
+
+
+// Arrays in JavaScript:  
+// let n = Number(prompt("Enter size value:"))
+// let arr = [];
+
+// for(let i = 0; i<n; i++){
+//     arr[i] = Number(prompt(`Enter ${i}th value:`))
+// }
+
+// console.log(`Whole array formed: ${arr}`);
+
+// const name = 23
+//String methods
+// console.log("Hello " + name + " NamasteJi")
+// console.log(`Hello ${name} Namasteji`)
 
