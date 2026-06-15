@@ -108,3 +108,19 @@
 // console.log(htmlVal)
 
 
+// Arrays in JavaScript:  
+// let n = Number(prompt("Enter size value:"))
+// let arr = [];
+
+// for(let i = 0; i<n; i++){
+//     arr[i] = Number(prompt(`Enter ${i}th value:`))
+// }
+
+// console.log(`Whole array formed: ${arr}`);
+
+// const name = 23
+//String methods
+// console.log("Hello " + name + " NamasteJi")
+// console.log(`Hello ${name} Namasteji`)
+
+    
